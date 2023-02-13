@@ -7,4 +7,4 @@ Feature: Search feature
         And I enter 1500 euros as the maximum price
         And I choose "Paris" as the city
         And I confirm the search
-        Then the result count is 50
+        Then the result count is 51
